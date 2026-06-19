@@ -37,6 +37,13 @@ Powered by an optimized **XGBoost Classifier** trained on the rigorous standard 
 - [x] **Administrative UI Tooling:** Designed an intuitive Streamlit app with integrated visual threat-alert metrics.
 
 ---
+## 📸 Application Screenshots
+
+![Home page](images/home.png)
+
+![Normal Traffic image](images/normal_traffic.png)
+
+![Cyber attacked image](images/attack_detected.png)
 
 ## 📂 Project Directory Topography
 The workspace files are systematically arranged as follows:
@@ -58,10 +65,3 @@ Network_Intrusion_Project/
 
 ---
 
-## 📸 Application Screenshots
-
-![Home page](images/home.png)
-
-![Normal Traffic image](images/normal_traffic.png)
-
-![Cyber attacked image](images/attack_detected.png)
