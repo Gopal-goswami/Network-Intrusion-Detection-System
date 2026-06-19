@@ -9,7 +9,7 @@ st.write("Real-time network traffic scan karne ke liye niche details enter karei
 st.markdown("---")
 
 # Backend ka Base URL (Pakka karein ki aapka FastAPI isi par chal raha hai)
-BACKEND_URL = "http://127.0.0.1:8000"
+BACKEND_URL = "https://network-intrusion-detection-system-4ygf.onrender.com"
 
 # 🟢 Sidebar mein Live Server Health Status check karna
 try:
