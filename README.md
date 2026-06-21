@@ -6,6 +6,7 @@
 * **Project Name:** Network Intrusion Detection System
 * **Domain:**  Machine Learning
 * **Duration:** 4 Weeks
+* **Live Demo URL:**https://network-intrusion-detection-system-caqjmzmdjpi9pczxrd7aq8.streamlit.app/
 
 ---
 
